@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @kcoding03
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Javascript
+- And I smell
+- Also check out this way cooler person jacob-thrasher.github.io
 
 
 <!---
